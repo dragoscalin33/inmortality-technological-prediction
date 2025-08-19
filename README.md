@@ -1,6 +1,4 @@
-Perfecto 🚀 Te preparo tu README.md en formato claro, atractivo y listo para GitHub:
-
-# Data Science Project: Predicting Technological Milestones 🚀
+# Data Science Project: Predicting Technological Milestones 
 
 This project applies **Machine Learning** to analyze and predict the future of technology by modeling **historical growth trends**.  
 It’s part of my **Data Science portfolio**, showcasing skills in **data analysis, modeling, and visualization**.  
@@ -37,9 +35,9 @@ The models provided a range of predictions for different technological milestone
 
 | Metric                     | Prediction (Year) |
 |----------------------------|-------------------|
-| Computing Power (10¹² TFLOPS) | [Insert result] |
-| Genome Sequencing Cost ($1)   | [Insert result] |
-| Transistor Density (1 Billion) | [Insert result] |
+| Computing Power (10¹² TFLOPS) | 2044 |
+| Genome Sequencing Cost ($1)   | 2025|
+| Transistor Density (1 Billion) | 2031 |
 
 ✨ Key insights:  
 - The **variability** in predictions highlights the complexity of forecasting multifaceted events.  
@@ -60,7 +58,3 @@ Let’s discuss this project or other Data Science topics!
 
 - **LinkedIn:** https://www.linkedin.com/in/dragos-calin33/
 
-
----
-
-👉 ¿Quieres que lo deje con tus LinkedIn y GitHub ya insertados para que no tengas que editarlos manualmente?
