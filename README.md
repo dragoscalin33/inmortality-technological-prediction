@@ -16,7 +16,7 @@ This project serves as a **compelling demonstration** of how ML can tackle fasci
 I trained **three regression models**, each using a verified, real-world dataset of a key technological metric.  
 This **multi-metric approach** adds scientific rigor and depth to the analysis:
 
-- **Computing Power** ⚡  
+- **Computing Power**   
   Based on data from the world's most powerful supercomputers (sourced from [TOP500.org](https://www.top500.org))  
 
 - **Genome Sequencing Cost** 🧬  
